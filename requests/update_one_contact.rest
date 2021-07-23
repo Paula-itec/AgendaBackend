@@ -1,0 +1,8 @@
+PATCH   http://localhost:3001/contacts/1
+Content - Type: application / json
+
+{
+    "phone": "32456677",
+    "name": "nuevooo",
+    "favourite": "false"
+}

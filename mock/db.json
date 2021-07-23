@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "date": "2019-05-30T19:20:14.298Z",
+      "favourite": true,
+      "name": "juan",
+      "phone": "66666666"
+    },
+    {
+      "id": 3,
+      "date": "2019-05-30T19:20:14.298Z",
+      "favourite": false,
+      "name": "pedro",
+      "phone": "22222222"
+    },
+    {
+      "date": "2019-05-30T19:20:14.298Z",
+      "favourite": true,
+      "name": "nuevo contacto 2",
+      "phone": "666664433",
+      "id": 2
+    },
+    {
+      "date": "2019-05-30T19:20:14.298Z",
+      "favourite": true,
+      "name": "nuevo contacto",
+      "phone": "66666333",
+      "id": 4
+    }
+  ]
+}
